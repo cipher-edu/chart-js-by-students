@@ -1,2 +1,1 @@
-# netflix-beginner-by-my-students
-netflix-beginner-by-my-students
+chart-js-by-students
